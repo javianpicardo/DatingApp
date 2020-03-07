@@ -1,0 +1,4 @@
+{
+    "http.proxy": "http://www-proxy.lmig.com:80",
+    "http.proxyStrictSSL": false
+}
